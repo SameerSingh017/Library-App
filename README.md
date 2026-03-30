@@ -184,7 +184,7 @@ This project demonstrates the implementation of a **relational database system i
 
 ## 👨‍💻 Author
 
-**Sameer Singh**
-**mail : sameer0555singh@gmail.com**
+**Sameer Singh**  
+**Mail:** sameer0555singh@gmail.com
 
 ---
